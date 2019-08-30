@@ -21,6 +21,9 @@ header{
 	height: 70px;
 	background-color: #EC715F;
 }
+.menu-box {
+	display: none;
+}
 .logo {
 	height:70px;
 }
